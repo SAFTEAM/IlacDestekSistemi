@@ -1,0 +1,9 @@
+C:\Users\FARUK\Desktop\IlacDestekSistemi\IlacDestekSistemi\bin\Debug\IlacDestekSistemi.exe.config
+C:\Users\FARUK\Desktop\IlacDestekSistemi\IlacDestekSistemi\bin\Debug\IlacDestekSistemi.exe
+C:\Users\FARUK\Desktop\IlacDestekSistemi\IlacDestekSistemi\bin\Debug\IlacDestekSistemi.pdb
+C:\Users\FARUK\Desktop\IlacDestekSistemi\IlacDestekSistemi\obj\Debug\IlacDestekSistemi.csprojResolveAssemblyReference.cache
+C:\Users\FARUK\Desktop\IlacDestekSistemi\IlacDestekSistemi\obj\Debug\IlacDestekSistemi.Form1.resources
+C:\Users\FARUK\Desktop\IlacDestekSistemi\IlacDestekSistemi\obj\Debug\IlacDestekSistemi.Properties.Resources.resources
+C:\Users\FARUK\Desktop\IlacDestekSistemi\IlacDestekSistemi\obj\Debug\IlacDestekSistemi.csproj.GenerateResource.Cache
+C:\Users\FARUK\Desktop\IlacDestekSistemi\IlacDestekSistemi\obj\Debug\IlacDestekSistemi.exe
+C:\Users\FARUK\Desktop\IlacDestekSistemi\IlacDestekSistemi\obj\Debug\IlacDestekSistemi.pdb
